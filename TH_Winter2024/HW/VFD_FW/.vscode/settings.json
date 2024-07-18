@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "i2c_dev.h": "c",
+        "pt.h": "c",
+        "main.h": "c"
+    }
+}
